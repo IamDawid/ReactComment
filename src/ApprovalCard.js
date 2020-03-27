@@ -6,7 +6,10 @@ const ApprovalCard = (props) => {
 
         <div className="ui card">
 
-            <div className="content">{props.children}</div>
+
+            {/* child component (CommentDetail) shows up inside of the approval card in the 'props' object, specifically the 'children' property */}
+
+            <div className="content">{props.children}</div>  
 
                 <div className="extra content">
                     <div className="ui two buttons">
