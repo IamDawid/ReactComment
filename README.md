@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Dectription
+## Description
 
 This is a simple practice app built to help me understand fundamentals of ReactJS - no real functionality but it's a pretty sleek comment box component
 
