@@ -8,4 +8,5 @@ This is a simple practice app built to help me understand fundamentals of ReactJ
 ## Built With
 
 * [Create React App](https://reactjs.org/docs/create-a-new-react-app.html) - Used to create initial boilerplate
-* [SemanticUI](https://semantic-ui.com/) - Styling, icons and loading spinner
+* [SemanticUI](https://semantic-ui.com/) - CSS styling 
+* [faker.js](https://github.com/marak/Faker.js/) - Used for randomizing data and avatars
